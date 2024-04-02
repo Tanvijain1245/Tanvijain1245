@@ -5,6 +5,8 @@
 - 📫 How to reach me jaintanvi1245@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+Look at some cool dashboard I made Tableau - https://public.tableau.com/app/profile/tanvi.jain1500/vizzes.
+
 
 <!---
 Tanvijain1245/Tanvijain1245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
