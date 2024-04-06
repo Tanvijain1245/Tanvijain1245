@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tanvi jain
--    I have a bachlor's degree in civil engineering and master's degree in project management
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- I have a bachlor's degree in civil engineering and master's degree in project management
+- 🌱 I’m currently learning ..
 - 📫 How to reach me jaintanvi1245@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
