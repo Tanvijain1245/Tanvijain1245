@@ -1,13 +1,8 @@
 - 👋 Hi, I’m Tanvi jain
 - I have a bachlor's degree in civil engineering and master's degree in project management
-- 🌱 I’m currently learning ..
 - 📫 How to reach me jaintanvi1245@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
-Look at some cool dashboard I made Tableau - https://public.tableau.com/app/profile/tanvi.jain1500/vizzes.
+Look at some cool dashboards I made Tableau - https://public.tableau.com/app/profile/tanvi.jain1500/vizzes.
 
-
-<!---
-Tanvijain1245/Tanvijain1245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SKILLS:Software Apps: MS Office suite, Adv.Excel, MS project, Visio, MATLAB, JIRA, Trello, Asana, Confluence, Alteryx, SQL, Python, Etabs, AutoCAD, MiniTab, HTML, Adobe-analytics, Primavera Risk Analysis- oracle cloud, CRM, Qlik, Indesign, Canva, Monday.com, Procreate, Adobe-illustrator, Sharepoint, Smartsheet, Mural, Tableau
+Languages: English, French, Korean, Hindi
